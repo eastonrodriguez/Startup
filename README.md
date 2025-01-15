@@ -16,5 +16,5 @@ The autherized users accounts and the answers they give will all be stored in a 
 ## WebSocket data
 As stated previously after the user answers are given it will be broadcast on the screen how many other users got that question wrong which is data recieved from the server
 ## Rough Scetch
-![Screenshot 2025-01-14 192909](https://github.com/user-attachments/assets/73ac6868-c7ab-4a12-a409-bbf4878a7463)
-)
+![Screenshot 2025-01-14 193315](https://github.com/user-attachments/assets/d10d135c-8b2f-4b56-99b9-ec2fbe715009)
+
